@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Ranidu Fernando — full-stack development</title><desc id="desc">Anime avatar rendered in terminal characters. Java, Python, C#, Flutter, MERN stack and WordPress. Building web apps and exploring AI.</desc>
+<defs><radialGradient id="wash"><stop stop-color="#c4b5fd" stop-opacity=".13"/><stop offset="1" stop-color="#07111f" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263b55" stroke-opacity=".25"/></pattern><clipPath id="portrait"><rect x="48" y="134" width="400" height="328" rx="16"/></clipPath></defs>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.muted{fill:#a2b1c7}.label{fill:#67e8f9;font-size:13px;letter-spacing:1px}.body{fill:#f1f5f9;font-size:17px}</style>
+<rect x="1" y="1" width="1178" height="608" rx="24" fill="#07111f" stroke="#263b55"/>
+<rect x="2" y="2" width="1176" height="606" rx="24" fill="url(#grid)"/>
+<ellipse cx="300" cy="290" rx="500" ry="380" fill="url(#wash)"/>
+<path d="M24 64H1156" stroke="#263b55"/>
+<circle cx="32" cy="32" r="6" fill="#f87171"/><circle cx="54" cy="32" r="6" fill="#fbbf24"/><circle cx="76" cy="32" r="6" fill="#34d399"/>
+<text x="108" y="37" class="muted" font-size="14">raniduNF26@github: ~/profile</text>
+<text x="1138" y="37" text-anchor="end" class="label">PROFILE.README</text>
+<rect x="32" y="88" width="432" height="490" rx="18" fill="#0f1d30" fill-opacity=".8" stroke="#263b55"/>
+<text x="56" y="117" class="label">01 / VISUAL.MAP</text>
+<g clip-path="url(#portrait)">
+<text x="248" y="150" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                      ......::..::.....                         <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.0s" fill="freeze"/></text>
+<text x="248" y="157" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                  ...:::**+:::..:+:.++++::..                    <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.012s" fill="freeze"/></text>
+<text x="248" y="164" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">               ...:+**:.::..     ....::.:++++:...               <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.024s" fill="freeze"/></text>
+<text x="248" y="171" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">            ...:***+:++.            .   ....:+++:..             <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.036000000000000004s" fill="freeze"/></text>
+<text x="248" y="178" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">          ...:**+:::++.               ...::....:++:..           <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.048s" fill="freeze"/></text>
+<text x="248" y="185" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">         ..:**+:.:**:       .           ..++:....:++:.          <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.06s" fill="freeze"/></text>
+<text x="248" y="192" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">        ..*#+.:****:..     ..       ....  .:++:....:*+..        <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.07200000000000001s" fill="freeze"/></text>
+<text x="248" y="199" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">      ..:#*:..:+.   .     ...        ....   .+:......+*:.       <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.084s" fill="freeze"/></text>
+<text x="248" y="206" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">     ..+#+...:*:.   .   ..  .        .       :+.... ..:*:.      <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.096s" fill="freeze"/></text>
+<text x="248" y="213" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">    ..+#:....:+*.          ... ...  ...     .:*++......:*:.     <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.108s" fill="freeze"/></text>
+<text x="248" y="220" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">   ..+#:...::*#+.     . . ....:###*..... .   ..++....  .:*:.    <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.12s" fill="freeze"/></text>
+<text x="248" y="227" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">   .:#:....:*+.         ....  +####+   ....    :+:...  ..:*..   <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.132s" fill="freeze"/></text>
+<text x="248" y="234" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">  ..#+......:.:            ...+*###+..         +:....   ..+*..  <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.14400000000000002s" fill="freeze"/></text>
+<text x="248" y="241" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve"> ..*#......:.+: .   .   .. ...###*+:+:....   .:+:...    ...*+.  <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.156s" fill="freeze"/></text>
+<text x="248" y="248" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve"> .:%+.......:+*.       .++....*+.:+**+:. . .. .++.....  ...:#.. <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.168s" fill="freeze"/></text>
+<text x="248" y="255" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">..*#........:+:      . .::....***++..+::. .++:.+:....... ...#+. <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.18s" fill="freeze"/></text>
+<text x="248" y="262" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.:%+.. .....:::.     .::+:::::+###%**###. :+#*:::.... ......+*..<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.192s" fill="freeze"/></text>
+<text x="248" y="269" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.+%:..  .....:+::    ..+*.+*+*#####%%%%#*:#+##::........ ...:#:.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.20400000000000001s" fill="freeze"/></text>
+<text x="248" y="276" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.*%:..  .....::+..   .+*####**%%%%%%%%%%#%**#+::.............#:.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.216s" fill="freeze"/></text>
+<text x="248" y="283" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.##..    .....:::+:.. +#####**%#%%%%%%%%%@%#++::.............#+.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.228s" fill="freeze"/></text>
+<text x="248" y="290" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">:##...    ....:::++**.+######+*#%%%%%%%%@*.:++::.............*+.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.24s" fill="freeze"/></text>
+<text x="248" y="297" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">:##...   ......::++*#*+############*#%%%@+ +*+::.............#*.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.252s" fill="freeze"/></text>
+<text x="248" y="304" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">:##:..   ......::+++**#*############%%%%#+.:+::::...........:#+.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.264s" fill="freeze"/></text>
+<text x="248" y="311" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.*%:..   .....:++:.     :#########%%%%%**%.   .:++:.........:#+.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.276s" fill="freeze"/></text>
+<text x="248" y="318" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.+@+...  ....##.         .*#####%%%%%#++%%.     .::++.......+%:.<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.28800000000000003s" fill="freeze"/></text>
+<text x="248" y="325" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.:%*........+#:.          ::*##%%%%%+:+#%%.         +*:....:*#..<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.3s" fill="freeze"/></text>
+<text x="248" y="332" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">.:#@:.......#+ ..   ..    *+:+####*::+*##%.   .      +*....:%+..<animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.312s" fill="freeze"/></text>
+<text x="248" y="339" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">..+@*:....+#%+   ... .    *#+:::. .:+*####.    ..   ..*:..:*%:. <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.324s" fill="freeze"/></text>
+<text x="248" y="346" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve"> .:#@+:.:#%*:.   ......  .*##+::::++*#####.    ..   ..*+::+%+.. <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.336s" fill="freeze"/></text>
+<text x="248" y="353" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve"> ..:%%+:*+.  ........... .*#**+++++*######:.  ..   ...:+#*%#:.  <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.34800000000000003s" fill="freeze"/></text>
+<text x="248" y="360" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">  .:*@#**.    ........... :#***++++#######++. .   .... .:%%:..  <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.36s" fill="freeze"/></text>
+<text x="248" y="367" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">  .+##@@*+:.    ...........:***++++*######*+.   ..... ...+*:.   <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.372s" fill="freeze"/></text>
+<text x="248" y="374" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">   ::..+*.         ..........+*+++*#**####*. .... ......:++:.   <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.384s" fill="freeze"/></text>
+<text x="248" y="381" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">    ... ...           ... .....++*##+*#**+. ...........  .:.    <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.396s" fill="freeze"/></text>
+<text x="248" y="388" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">      .   ..                  ..+*#****+..........              <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.40800000000000003s" fill="freeze"/></text>
+<text x="248" y="395" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">       .           .             :*#+:.....                     <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.42s" fill="freeze"/></text>
+<text x="248" y="402" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                  ....               ..         <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.432s" fill="freeze"/></text>
+<text x="248" y="409" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                                 .  .           <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.444s" fill="freeze"/></text>
+<text x="248" y="416" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                                .               <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.456s" fill="freeze"/></text>
+<text x="248" y="423" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                               .                <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.468s" fill="freeze"/></text>
+<text x="248" y="430" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                         .    .                 <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.48s" fill="freeze"/></text>
+<text x="248" y="437" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                                                <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.492s" fill="freeze"/></text>
+<text x="248" y="444" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                                                <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.504s" fill="freeze"/></text>
+<text x="248" y="451" text-anchor="middle" font-size="9" fill="#67e8f9" xml:space="preserve">                                                                <animate attributeName="opacity" values=".15;1" dur=".5s" begin="0.516s" fill="freeze"/></text>
+<rect x="56" y="154" width="384" height="1" fill="#c4b5fd" opacity=".2"><animate attributeName="y" values="154;454;154" dur="18s" repeatCount="indefinite"/></rect></g>
+<text x="248" y="490" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold">IDEAS → USEFUL PROJECTS</text>
+<text x="248" y="518" text-anchor="middle" class="muted" font-size="14">Build. Learn. Keep creating.</text>
+<text x="248" y="554" text-anchor="middle" class="label">~/profile $ explore --next</text>
+<rect x="488" y="88" width="660" height="490" rx="18" fill="#0f1d30" fill-opacity=".75" stroke="#263b55"/>
+<text x="516" y="117" class="label">02 / SYSTEM.INFO</text>
+<text x="516" y="155" class="muted" font-size="14">$ ./profile.sh</text>
+<text x="516" y="203" fill="#f1f5f9" font-size="38" font-weight="bold">Ranidu Fernando</text>
+<text x="516" y="237" fill="#c4b5fd" font-size="20">Full-stack development</text>
+<text x="516" y="278" class="label">FOCUS</text><text x="616" y="278" class="body">Web apps · exploring AI</text>
+<text x="516" y="310" class="label">GITHUB</text><text x="616" y="310" class="body">@raniduNF26</text>
+<path d="M516 334H1120" stroke="#263b55"/>
+<text x="516" y="361" class="label">ENGINEERING STACK</text>
+<rect x="516" y="377" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="609" y="399" text-anchor="middle" fill="#f1f5f9" font-size="14">Java</text>
+<rect x="718" y="377" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="811" y="399" text-anchor="middle" fill="#f1f5f9" font-size="14">Python</text>
+<rect x="920" y="377" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="1013" y="399" text-anchor="middle" fill="#f1f5f9" font-size="14">C#</text>
+<rect x="516" y="423" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="609" y="445" text-anchor="middle" fill="#f1f5f9" font-size="14">Flutter</text>
+<rect x="718" y="423" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="811" y="445" text-anchor="middle" fill="#f1f5f9" font-size="14">MERN stack</text>
+<rect x="920" y="423" width="186" height="34" rx="8" fill="#07111f" stroke="#263b55"/><text x="1013" y="445" text-anchor="middle" fill="#f1f5f9" font-size="14">WordPress</text>
+<text x="516" y="493" class="label">SELECTED PROJECTS</text>
+<text x="516" y="522" class="body">real-estate-app · DeelectaaCafe</text>
+<text x="516" y="551" class="muted" font-size="14">github.com/raniduNF26</text>
+</svg>
